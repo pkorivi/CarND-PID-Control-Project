@@ -12,10 +12,15 @@ public:
 
   /*
   * Coefficients
-  */ 
+  */
   double Kp;
   double Ki;
   double Kd;
+
+  /*
+  * OLD CTE Errors
+  */
+  double prev_cte;
 
   /*
   * Constructor
