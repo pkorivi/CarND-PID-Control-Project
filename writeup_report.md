@@ -34,5 +34,5 @@ For tuning the parameters initially I tried manually and got a basic run complet
 
 As the twiddle idea did not turnout to be good, I tried tuning parameters manually. The main challenge I fekt is that some parameters worked will in corners and some worked great in straight lines. It was tough to create parameters which are working good in all conditions. I finally tried to adjust the throttle based on the current cross track error and steering values and it seemed to have a good impact. 
 
-The final video is (result_video.mp4)[./result_video.mp4].
+The final [video](./result_video.mp4).
 
